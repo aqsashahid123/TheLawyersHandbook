@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheLawyersHandbook</string>
+    <string name="no_record">n/a</string>
+    <string name="internet_not_connected">No internet! Please check your internet connection.</string>
+    <string name="server_error">Something went wrong! Please wait!</string>
+    <string name="warning_email">Please enter a valid email!</string>
+    <string name="warning_name">Name can not be empty!</string>
+    <string name="warning_employee_id">Employee Id can not be empty!</string>
+    <string name="warning_password">Please enter your password!</string>
+    <string name="warning_password_matched">Password does not matched!</string>
+    <string name="warning_phone">Please enter a valid phone number!</string>
+</resources>
